@@ -1,0 +1,7 @@
+const countriesActionTypes = {
+    COUNTRIES_LOAD_START: 'COUNTRIES_LOAD_START',
+    COUNTRIES_LOAD_SUCCESS: 'COUNTRIES_LOAD_SUCCESS',
+    COUNTRIES_LOAD_ERROR: 'COUNTRIES_LOAD_ERROR'
+}
+
+export default countriesActionTypes;

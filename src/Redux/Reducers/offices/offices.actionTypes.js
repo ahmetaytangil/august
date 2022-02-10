@@ -1,0 +1,7 @@
+const officesActionTypes = {
+    OFFICES_LOAD_START: 'OFFICES_LOAD_START',
+    OFFICES_LOAD_SUCCESS: 'OFFICES_LOAD_SUCCESS',
+    OFFICES_LOAD_ERROR: 'OFFICES_LOAD_ERROR'
+}
+
+export default officesActionTypes;

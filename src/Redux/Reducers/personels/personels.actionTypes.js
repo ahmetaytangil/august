@@ -1,0 +1,7 @@
+const personelsActionTypes = {
+    PERSONELS_LOAD_START: 'PERSONELS_LOAD_START',
+    PERSONELS_LOAD_SUCCESS: 'PERSONELS_LOAD_SUCCESS',
+    PERSONELS_LOAD_ERROR: 'PERSONELS_LOAD_ERROR'
+}
+
+export default personelsActionTypes;
