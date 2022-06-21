@@ -1,6 +1,6 @@
 {
-  "name": "auguststatic",
-  "version": "0.1.0",
+  "name": "august",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@fancyapps/ui": "^4.0.0-beta.2",
